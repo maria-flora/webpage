@@ -257,7 +257,7 @@
 
 				});
 
-			});
+			
 	
 		// THIS PART ADDS THE MODAL IMAGE
 	
@@ -283,5 +283,7 @@
 				}
 
 			// THE ABOVE PART ADDS THE MODAL IMAGE
+				
+		});
 	
 })(jQuery);
