@@ -2300,7 +2300,7 @@ button,
  /* background-color: rgb(255, 170, 0); /* Fallback color */
  /* background-color: rgba(255,170,0,0.3); /* Orange w/ opacity */
   background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.5); /* Black w/ opacity */ 
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */ 
 }
 
 /* Modal Content (Image) */
