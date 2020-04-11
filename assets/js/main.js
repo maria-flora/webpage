@@ -259,7 +259,7 @@
 
 			
 	
-		// THIS PART ADDS THE MODAL IMAGE
+		/* THIS PART ADDS THE MODAL IMAGE */
 	
 			// Get the modal
 				var modal = document.getElementById("myModal");
@@ -282,8 +282,8 @@
  				 modal.style.display = "none";
 				}
 
-			// THE ABOVE PART ADDS THE MODAL IMAGE
+			/* THE ABOVE PART ADDS THE MODAL IMAGE */
 				
-		});
+	/*	});  */
 	
 })(jQuery);
