@@ -257,7 +257,7 @@
 
 				});
 
-			
+			});
 	
 		/* THIS PART ADDS THE MODAL IMAGE */
 	
